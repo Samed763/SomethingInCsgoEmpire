@@ -4,7 +4,7 @@ url = "https://csgoempire.io/api/v2/trading/items?per_page=10&page=1&price_max_a
 
 payload = {}
 headers = {
-  'Authorization': 'Bearer 117a4b983df3e12b36132e60d46b6df0',
+  'Authorization': 'Bearer :Your APi  ',
   'Cookie': '__cf_bm=qpuMbSG7m3KUmp.5Zd7_ajkdLAifiDem.JjrF6LFnSg-1682967420-0-AaXpzCCnVltr3zZ6X6p2VhQse/c7WfpuVHlrpLxa0dgKz0JS10s2iO24cmmIZHC8LUiIZiRcAbIpWxJaFrcFoys='
 }
 
